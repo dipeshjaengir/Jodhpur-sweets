@@ -1,0 +1,506 @@
+[
+  {
+    "id": "mawa-kachori",
+    "name": "Shahi Mawa Kachori",
+    "category": "sweets",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 142,
+    "description": "Crispy golden-fried puff pastry stuffed with a rich, aromatic mixture of cardamom-scented Mawa (milk solids), almonds, pistachios, and saffron, bathed in sugar syrup. Originated in Jodhpur.",
+    "priceVariants": [
+      { "weight": "250g (4 Pcs)", "price": 220, "stock": 45 },
+      { "weight": "500g (8 Pcs)", "price": 420, "stock": 30 },
+      { "weight": "1kg (16 Pcs)", "price": 800, "stock": 15 }
+    ],
+    "ingredients": ["Mawa (Khoya)", "Refined Wheat Flour", "Pure Ghee", "Almonds", "Pistachios", "Saffron", "Cardamom", "Sugar"],
+    "nutritionalInfo": { "calories": "410 kcal", "protein": "6g", "carbohydrates": "54g", "fat": "19g" },
+    "allergens": ["Gluten", "Milk", "Nuts"],
+    "shelfLife": "7 days. Keep in a cool, dry place.",
+    "image": "assets/images/mawa_kachori.jpg",
+    "tags": ["Rajasthani Sweets", "Mithai", "Saffron"]
+  },
+  {
+    "id": "pyaaz-kachori",
+    "name": "Jodhpuri Pyaaz Kachori",
+    "category": "namkeen",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviewCount": 210,
+    "description": "Crispy outer crust made of refined flour, stuffed with a spicy, caramelized onion filling cooked with toasted fennel, coriander seeds, and local Rajasthani spices.",
+    "priceVariants": [
+      { "weight": "250g (4 Pcs)", "price": 120, "stock": 60 },
+      { "weight": "500g (8 Pcs)", "price": 230, "stock": 40 },
+      { "weight": "1kg (16 Pcs)", "price": 440, "stock": 20 }
+    ],
+    "ingredients": ["Onions", "Refined Wheat Flour", "Gram Flour", "Spices (Fennel, Coriander, Chili)", "Pure Ghee", "Salt"],
+    "nutritionalInfo": { "calories": "290 kcal", "protein": "4.5g", "carbohydrates": "38g", "fat": "13g" },
+    "allergens": ["Gluten"],
+    "shelfLife": "2 days. Reheat before serving.",
+    "image": "assets/images/pyaaz_kachori.jpg",
+    "tags": ["Jodhpuri Specials", "Namkeen", "Spicy"]
+  },
+  {
+    "id": "kaju-katli",
+    "name": "Premium Kaju Katli",
+    "category": "sweets",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 389,
+    "description": "Crafted from the finest selected cashews, ground and slow-cooked in sugar syrup to create a melt-in-the-mouth texture, topped with edible silver foil (Vark).",
+    "priceVariants": [
+      { "weight": "250g", "price": 300, "stock": 100 },
+      { "weight": "500g", "price": 580, "stock": 80 },
+      { "weight": "1kg", "price": 1100, "stock": 50 }
+    ],
+    "ingredients": ["Premium Cashew Nuts", "Sugar", "Water", "Pure Ghee", "Edible Silver Foil"],
+    "nutritionalInfo": { "calories": "478 kcal", "protein": "9.5g", "carbohydrates": "58g", "fat": "23g" },
+    "allergens": ["Nuts"],
+    "shelfLife": "30 days when stored in an airtight container.",
+    "image": "assets/images/kaju_katli.jpg",
+    "tags": ["Kaju Sweets", "Mithai", "Silver Foil"]
+  },
+  {
+    "id": "motichoor-ladoo",
+    "name": "Kesaria Motichoor Ladoo",
+    "category": "sweets",
+    "isBestSeller": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviewCount": 115,
+    "description": "Delicate pearls of gram flour fried in pure Desi Ghee, simmered in a saffron and cardamom syrup, and rolled with melon seeds into golden spheres.",
+    "priceVariants": [
+      { "weight": "250g", "price": 180, "stock": 70 },
+      { "weight": "500g", "price": 340, "stock": 50 },
+      { "weight": "1kg", "price": 650, "stock": 30 }
+    ],
+    "ingredients": ["Gram Flour (Besan)", "Pure Desi Ghee", "Sugar", "Saffron", "Cardamom", "Melon Seeds"],
+    "nutritionalInfo": { "calories": "385 kcal", "protein": "5g", "carbohydrates": "62g", "fat": "14g" },
+    "allergens": ["Milk"],
+    "shelfLife": "10 days at room temperature.",
+    "image": "assets/images/motichoor_ladoo.jpg",
+    "tags": ["Rajasthani Sweets", "Mithai", "Ghee"]
+  },
+  {
+    "id": "shahi-samosa",
+    "name": "Shahi Paneer Samosa",
+    "category": "namkeen",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviewCount": 98,
+    "description": "Crispy pastry pyramids filled with a royal mix of spiced mashed potatoes, fresh paneer cubes, green peas, raisins, and cashew bits, seasoned with dry mango powder.",
+    "priceVariants": [
+      { "weight": "250g (4 Pcs)", "price": 100, "stock": 80 },
+      { "weight": "500g (8 Pcs)", "price": 190, "stock": 50 },
+      { "weight": "1kg (16 Pcs)", "price": 360, "stock": 25 }
+    ],
+    "ingredients": ["Refined Wheat Flour", "Potato", "Paneer", "Green Peas", "Cashews", "Raisins", "Spices", "Pure Ghee"],
+    "nutritionalInfo": { "calories": "260 kcal", "protein": "5g", "carbohydrates": "30g", "fat": "12g" },
+    "allergens": ["Gluten", "Milk", "Nuts"],
+    "shelfLife": "1 day. Consume fresh.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Namkeen", "Samosa", "Spicy"]
+  },
+  {
+    "id": "kesar-pedha",
+    "name": "Royal Kesar Peda",
+    "category": "sweets",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviewCount": 78,
+    "description": "Rich, dense sweets crafted from slow-cooked condensed milk (khoya) infused with Kashmiri saffron threads and green cardamom, stamped with traditional patterns.",
+    "priceVariants": [
+      { "weight": "250g", "price": 200, "stock": 60 },
+      { "weight": "500g", "price": 380, "stock": 40 },
+      { "weight": "1kg", "price": 720, "stock": 20 }
+    ],
+    "ingredients": ["Milk Solids (Khoya)", "Sugar", "Saffron Threads", "Cardamom", "Pistachios"],
+    "nutritionalInfo": { "calories": "415 kcal", "protein": "8.2g", "carbohydrates": "58g", "fat": "17g" },
+    "allergens": ["Milk", "Nuts"],
+    "shelfLife": "15 days. Keep in a cool, dry place.",
+    "image": "assets/images/kesar_pedha.jpg",
+    "tags": ["Milk Sweets", "Mithai", "Saffron"]
+  },
+  {
+    "id": "gulab-jamun",
+    "name": "Shahi Mawa Gulab Jamun",
+    "category": "sweets",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 189,
+    "description": "Plump, golden-brown spheres of soft mawa and paneer dough, deep fried in Desi Ghee and soaked in sugar syrup flavored with rosewater and saffron.",
+    "priceVariants": [
+      { "weight": "250g (6 Pcs)", "price": 180, "stock": 75 },
+      { "weight": "500g (12 Pcs)", "price": 340, "stock": 55 },
+      { "weight": "1kg (24 Pcs)", "price": 650, "stock": 25 }
+    ],
+    "ingredients": ["Mawa (Khoya)", "Chenna (Cottage Cheese)", "Refined Flour", "Pure Ghee", "Sugar", "Rose Water", "Saffron"],
+    "nutritionalInfo": { "calories": "320 kcal", "protein": "5g", "carbohydrates": "50g", "fat": "11g" },
+    "allergens": ["Gluten", "Milk"],
+    "shelfLife": "10 days when refrigerated.",
+    "image": "assets/images/gulab_jamun.jpg",
+    "tags": ["Bengali Sweets", "Mithai", "Rosewater"]
+  },
+  {
+    "id": "bengali-rasgulla",
+    "name": "Kesar Bengali Rasgulla",
+    "category": "sweets",
+    "isBestSeller": false,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviewCount": 150,
+    "description": "Soft, spongy, cottage cheese dumplings, slow boiled in light cardamom-infused sugar syrup and garnished with Kashmiri saffron.",
+    "priceVariants": [
+      { "weight": "500g (8 Pcs)", "price": 200, "stock": 50 },
+      { "weight": "1kg (16 Pcs)", "price": 380, "stock": 25 }
+    ],
+    "ingredients": ["Chenna (Milk Solids)", "Sugar", "Saffron", "Cardamom", "Water"],
+    "nutritionalInfo": { "calories": "186 kcal", "protein": "4g", "carbohydrates": "42g", "fat": "1.8g" },
+    "allergens": ["Milk"],
+    "shelfLife": "7 days when refrigerated.",
+    "image": "assets/images/gulab_jamun.jpg",
+    "tags": ["Bengali Sweets", "Mithai", "Spongy"]
+  },
+  {
+    "id": "dryfruit-barfi",
+    "name": "Royal Dry Fruit Barfi",
+    "category": "sweets",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.9,
+    "reviewCount": 85,
+    "description": "Sugar-free nutritional powerhouse made with a dense blend of ground almonds, cashews, pistachios, dates, and dried figs, shaped into elegant bars.",
+    "priceVariants": [
+      { "weight": "250g", "price": 350, "stock": 40 },
+      { "weight": "500g", "price": 680, "stock": 30 },
+      { "weight": "1kg", "price": 1300, "stock": 15 }
+    ],
+    "ingredients": ["Almonds", "Cashews", "Pistachios", "Dates", "Figs", "Pure Ghee"],
+    "nutritionalInfo": { "calories": "520 kcal", "protein": "11g", "carbohydrates": "48g", "fat": "29g" },
+    "allergens": ["Nuts"],
+    "shelfLife": "45 days when stored in an airtight container.",
+    "image": "assets/images/motichoor_ladoo.jpg",
+    "tags": ["Dry Fruit Sweets", "Mithai", "Sugar-Free"]
+  },
+  {
+    "id": "rajasthani-bhujia",
+    "name": "Authentic Bikaneri Bhujia",
+    "category": "namkeen",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 420,
+    "description": "Crispy savory noodle snack made of moth bean flour, gram flour, and ground local spices. The pride of Rajasthan.",
+    "priceVariants": [
+      { "weight": "250g", "price": 90, "stock": 150 },
+      { "weight": "500g", "price": 170, "stock": 100 },
+      { "weight": "1kg", "price": 320, "stock": 50 }
+    ],
+    "ingredients": ["Moth Bean Flour", "Gram Flour", "Pure Ghee", "Spices (Black Pepper, Cardamom, Clove)", "Salt"],
+    "nutritionalInfo": { "calories": "540 kcal", "protein": "12g", "carbohydrates": "42g", "fat": "36g" },
+    "allergens": ["Gluten"],
+    "shelfLife": "90 days when stored in a dry airtight container.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Bhujia", "Namkeen", "Crispy"]
+  },
+  {
+    "id": "lasun-sev",
+    "name": "Jodhpuri Lahsun Sev",
+    "category": "namkeen",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviewCount": 110,
+    "description": "Crispy, moderately spiced gram flour strings infused with fresh garlic pulp and hot red chili powder from Mathania.",
+    "priceVariants": [
+      { "weight": "250g", "price": 80, "stock": 120 },
+      { "weight": "500g", "price": 150, "stock": 80 }
+    ],
+    "ingredients": ["Gram Flour (Besan)", "Garlic Paste", "Mathania Chili Powder", "Pure Ghee", "Salt"],
+    "nutritionalInfo": { "calories": "520 kcal", "protein": "10g", "carbohydrates": "44g", "fat": "32g" },
+    "allergens": [],
+    "shelfLife": "60 days.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Sev", "Namkeen", "Garlic"]
+  },
+  {
+    "id": "shahi-mixture",
+    "name": "Royal Shahi Mixture",
+    "category": "namkeen",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviewCount": 195,
+    "description": "A sweet and savory mix of potato sticks, gram flour sev, roasted cashews, almonds, raisins, and dried curry leaves.",
+    "priceVariants": [
+      { "weight": "250g", "price": 110, "stock": 100 },
+      { "weight": "500g", "price": 200, "stock": 80 },
+      { "weight": "1kg", "price": 380, "stock": 40 }
+    ],
+    "ingredients": ["Gram Flour", "Potato", "Cashews", "Almonds", "Raisins", "Pure Ghee", "Spices", "Salt"],
+    "nutritionalInfo": { "calories": "535 kcal", "protein": "9g", "carbohydrates": "46g", "fat": "33g" },
+    "allergens": ["Gluten", "Nuts"],
+    "shelfLife": "60 days.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Mixture", "Namkeen", "Sweet & Savory"]
+  },
+  {
+    "id": "masala-papdi",
+    "name": "Crispy Masala Papdi",
+    "category": "namkeen",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviewCount": 85,
+    "description": "Crispy, flat discs of spiced gram flour seasoned with carom seeds (Ajwain) and turmeric. Perfect teatime snack.",
+    "priceVariants": [
+      { "weight": "250g", "price": 85, "stock": 90 },
+      { "weight": "500g", "price": 160, "stock": 60 }
+    ],
+    "ingredients": ["Gram Flour", "Pure Ghee", "Ajwain (Carom)", "Turmeric", "Salt", "Spices"],
+    "nutritionalInfo": { "calories": "490 kcal", "protein": "9.2g", "carbohydrates": "48g", "fat": "27g" },
+    "allergens": [],
+    "shelfLife": "45 days.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Papdi", "Namkeen", "Teatime"]
+  },
+  {
+    "id": "methi-mathri",
+    "name": "Rajasthani Methi Mathri",
+    "category": "namkeen",
+    "isBestSeller": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviewCount": 130,
+    "description": "Flaky, deep-fried flour discs flavored with dried fenugreek leaves (Kasuri Methi) and crushed black pepper.",
+    "priceVariants": [
+      { "weight": "250g", "price": 90, "stock": 100 },
+      { "weight": "500g", "price": 170, "stock": 70 },
+      { "weight": "1kg", "price": 320, "stock": 40 }
+    ],
+    "ingredients": ["Refined Wheat Flour", "Pure Ghee", "Kasuri Methi", "Black Pepper", "Ajwain", "Salt"],
+    "nutritionalInfo": { "calories": "512 kcal", "protein": "8.5g", "carbohydrates": "50g", "fat": "29g" },
+    "allergens": ["Gluten"],
+    "shelfLife": "60 days.",
+    "image": "assets/images/shahi_samosa.jpg",
+    "tags": ["Mathri", "Namkeen", "Methi"]
+  },
+  {
+    "id": "rajputana-hamper",
+    "name": "Royal Rajputana Gifting Hamper",
+    "category": "hampers",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 5.0,
+    "reviewCount": 65,
+    "description": "An opulent compilation of Jodhpur's finest. Includes 250g Premium Kaju Katli, 250g Shahi Mawa Kachori, 200g Roasted Salted Cashews, and 200g Iranian Pistachios in a silk-gold box.",
+    "priceVariants": [
+      { "weight": "Standard Luxury Size", "price": 1850, "stock": 25 }
+    ],
+    "ingredients": ["Assorted Sweets (Cashews, Milk, Ghee, Sugar)", "Salted Cashews", "Iranian Pistachios"],
+    "nutritionalInfo": { "calories": "Variable", "protein": "Variable", "carbohydrates": "Variable", "fat": "Variable" },
+    "allergens": ["Gluten", "Milk", "Nuts"],
+    "shelfLife": "15 days.",
+    "image": "assets/images/rajputana_hamper.jpg",
+    "tags": ["Wedding Hampers", "Gift Hampers", "Festivals"]
+  },
+  {
+    "id": "diwali-hamper",
+    "name": "Diwali Utsav Celebration Box",
+    "category": "hampers",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 180,
+    "description": "Premium festive gift hamper containing 250g Kaju Katli, 250g Kesaria Peda, 200g Bikaneri Bhujia, and two traditional terracotta diyas.",
+    "priceVariants": [
+      { "weight": "Festive Standard Box", "price": 950, "stock": 200 }
+    ],
+    "ingredients": ["Cashews", "Milk Solids", "Gram Flour", "Spices", "Pure Ghee"],
+    "nutritionalInfo": { "calories": "Variable", "protein": "Variable", "carbohydrates": "Variable", "fat": "Variable" },
+    "allergens": ["Milk", "Nuts", "Gluten"],
+    "shelfLife": "15 days.",
+    "image": "assets/images/rajputana_hamper.jpg",
+    "tags": ["Festival Hampers", "Gift Hampers", "Diwali"]
+  },
+  {
+    "id": "corporate-hamper",
+    "name": "Elite Corporate Gratitude Hamper",
+    "category": "hampers",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviewCount": 75,
+    "description": "Sophisticated corporate gift basket presenting dry fruit barfi, roasted salted almonds, vacuum-packed spiced pistachios, and gold-foil greeting card.",
+    "priceVariants": [
+      { "weight": "Corporate Box", "price": 1450, "stock": 150 }
+    ],
+    "ingredients": ["Almonds", "Cashews", "Dates", "Pistachios", "Spices"],
+    "nutritionalInfo": { "calories": "Variable", "protein": "Variable", "carbohydrates": "Variable", "fat": "Variable" },
+    "allergens": ["Nuts"],
+    "shelfLife": "30 days.",
+    "image": "assets/images/rajputana_hamper.jpg",
+    "tags": ["Corporate Gifts", "Gift Hampers"]
+  },
+  {
+    "id": "gond-laddu",
+    "name": "Winter Special Gond Laddu",
+    "category": "hampers",
+    "isBestSeller": false,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 94,
+    "description": "Traditional winter wellness sweet spheres made of edible gum resin (Gond), whole wheat flour, Desi Ghee, dry fruits, and warm ginger powder.",
+    "priceVariants": [
+      { "weight": "500g", "price": 450, "stock": 60 },
+      { "weight": "1kg", "price": 850, "stock": 30 }
+    ],
+    "ingredients": ["Edible Gum (Gond)", "Whole Wheat Flour", "Desi Ghee", "Almonds", "Ginger Powder", "Muscovado Sugar"],
+    "nutritionalInfo": { "calories": "485 kcal", "protein": "6.8g", "carbohydrates": "56g", "fat": "24g" },
+    "allergens": ["Gluten", "Nuts"],
+    "shelfLife": "60 days.",
+    "image": "assets/images/motichoor_ladoo.jpg",
+    "tags": ["Seasonal Specials", "Mithai", "Gond"]
+  },
+  {
+    "id": "red-velvet-cake",
+    "name": "Royal Red Velvet Cake",
+    "category": "party",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviewCount": 112,
+    "description": "Soft red cocoa sponge layers topped with rich whipped cream cheese frosting, designed in-house for luxury birthday celebrations.",
+    "priceVariants": [
+      { "weight": "500g (Half Kg)", "price": 550, "stock": 20 },
+      { "weight": "1kg (One Kg)", "price": 1000, "stock": 10 }
+    ],
+    "ingredients": ["Cocoa Powder", "Wheat Flour", "Cream Cheese", "Butter", "Sugar", "Vanilla Extract"],
+    "nutritionalInfo": { "calories": "367 kcal", "protein": "5g", "carbohydrates": "48g", "fat": "18g" },
+    "allergens": ["Gluten", "Milk"],
+    "shelfLife": "2 days. Keep refrigerated.",
+    "image": "assets/images/banner.jpg",
+    "tags": ["Birthday Cakes", "Pastries"]
+  },
+  {
+    "id": "choco-pastry",
+    "name": "Shahi Dark Chocolate Pastry",
+    "category": "party",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviewCount": 64,
+    "description": "Individual premium slice of dark Belgian chocolate fudge cake, layers of chocolate ganache and chocolate shavings.",
+    "priceVariants": [
+      { "weight": "Single Slice", "price": 90, "stock": 40 }
+    ],
+    "ingredients": ["Dark Chocolate", "Cocoa Powder", "Wheat Flour", "Cream", "Butter", "Sugar"],
+    "nutritionalInfo": { "calories": "340 kcal", "protein": "4.2g", "carbohydrates": "40g", "fat": "19g" },
+    "allergens": ["Gluten", "Milk"],
+    "shelfLife": "2 days. Keep refrigerated.",
+    "image": "assets/images/banner.jpg",
+    "tags": ["Pastries"]
+  },
+  {
+    "id": "pistachio-cupcake",
+    "name": "Kesar Pistachio Cupcake",
+    "category": "party",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviewCount": 42,
+    "description": "Delightful little cupcakes flavored with ground pistachios, topped with a saffron buttercream frosting swirls.",
+    "priceVariants": [
+      { "weight": "Pack of 2 Pcs", "price": 120, "stock": 30 },
+      { "weight": "Pack of 4 Pcs", "price": 220, "stock": 15 }
+    ],
+    "ingredients": ["Pistachios", "Wheat Flour", "Butter", "Saffron", "Sugar", "Milk"],
+    "nutritionalInfo": { "calories": "285 kcal", "protein": "3.8g", "carbohydrates": "36g", "fat": "14g" },
+    "allergens": ["Gluten", "Milk", "Nuts"],
+    "shelfLife": "3 days. Keep cool.",
+    "image": "assets/images/banner.jpg",
+    "tags": ["Cup Cakes"]
+  },
+  {
+    "id": "cashew-cookies",
+    "name": "Desi Ghee Cashew Cookies",
+    "category": "party",
+    "isBestSeller": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviewCount": 185,
+    "description": "Crispy, eggless cookies baked with refined wheat flour, pure Desi Ghee, sugar, and generous cashew nut bits.",
+    "priceVariants": [
+      { "weight": "250g Pack", "price": 150, "stock": 100 },
+      { "weight": "500g Pack", "price": 280, "stock": 65 }
+    ],
+    "ingredients": ["Wheat Flour", "Desi Ghee", "Sugar", "Cashews", "Cardamom"],
+    "nutritionalInfo": { "calories": "512 kcal", "protein": "7.5g", "carbohydrates": "58g", "fat": "28g" },
+    "allergens": ["Gluten", "Nuts"],
+    "shelfLife": "45 days.",
+    "image": "assets/images/gift_box.jpg",
+    "tags": ["Cookies"]
+  },
+  {
+    "id": "chocolate-gift",
+    "name": "Assorted Handmade Truffles",
+    "category": "party",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviewCount": 54,
+    "description": "Luxury box of handmade chocolates, including caramel, fruit-and-nut, and coffee infused dark chocolate truffles.",
+    "priceVariants": [
+      { "weight": "Box of 12 Pcs", "price": 450, "stock": 40 }
+    ],
+    "ingredients": ["Cocoa Butter", "Cocoa Mass", "Milk Solids", "Caramel", "Nuts", "Sugar"],
+    "nutritionalInfo": { "calories": "530 kcal", "protein": "6g", "carbohydrates": "52g", "fat": "32g" },
+    "allergens": ["Milk", "Nuts"],
+    "shelfLife": "60 days.",
+    "image": "assets/images/gift_box.jpg",
+    "tags": ["Chocolate Gifts"]
+  },
+  {
+    "id": "birthday-decor",
+    "name": "Royal Birthday Celebration Combo",
+    "category": "party",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "description": "Combined celebration set containing 10 premium birthday caps, 30 golden metallic balloons, and 1 set of Happy Birthday paper banners.",
+    "priceVariants": [
+      { "weight": "Standard Party Set", "price": 350, "stock": 50 }
+    ],
+    "ingredients": ["Paper Caps", "Rubber Latex Balloons", "Metallic Strings"],
+    "nutritionalInfo": { "calories": "N/A", "protein": "N/A", "carbohydrates": "N/A", "fat": "N/A" },
+    "allergens": [],
+    "shelfLife": "Indefinite.",
+    "image": "assets/images/banner.jpg",
+    "tags": ["Birthday Caps", "Birthday Balloons", "Party Decorations", "Celebration Accessories"]
+  },
+  {
+    "id": "return-gift",
+    "name": "Imperial Sweets Return Gift Box",
+    "category": "party",
+    "isBestSeller": false,
+    "isFeatured": false,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "description": "Mini decorative tin box packed with 100g premium Kaju Katli and 100g Kesar Peda, perfect as event return gifts.",
+    "priceVariants": [
+      { "weight": "Single Gift Box", "price": 250, "stock": 200 }
+    ],
+    "ingredients": ["Cashews", "Milk Solids", "Sugar", "Pure Ghee", "Saffron"],
+    "nutritionalInfo": { "calories": "Variable", "protein": "Variable", "carbohydrates": "Variable", "fat": "Variable" },
+    "allergens": ["Milk", "Nuts"],
+    "shelfLife": "15 days.",
+    "image": "assets/images/gift_box.jpg",
+    "tags": ["Return Gifts"]
+  }
+]

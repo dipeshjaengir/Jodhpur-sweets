@@ -1,0 +1,9 @@
+{
+  "name": "new-jodhpur-sweet-home",
+  "version": "1.0.0",
+  "description": "Premium Luxury Mithai Brand Website - New Jodhpur Sweet Home Mandawa",
+  "type": "module",
+  "scripts": {
+    "start": "node start.js"
+  }
+}
